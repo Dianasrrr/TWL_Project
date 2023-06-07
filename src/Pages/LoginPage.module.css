@@ -1,0 +1,60 @@
+.loginPage {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .loginPageTitle {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .formContainer {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .formField {
+    margin-bottom: 10px;
+  }
+  
+  .inputLabel {
+    display: block;
+    text-align: left;
+    color: #555;
+    margin-bottom: 5px;
+  }
+  
+  .inputField {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .errorMessage {
+    color: red;
+    margin-top: 5px;
+  }
+  
+  .loginButton {
+    width: 100%;
+    padding: 8px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .registerLink {
+    margin-top: 10px;
+    color: #888;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  
+  .registerLink:hover {
+    color: #555;
+  }
+  
